@@ -1,0 +1,29 @@
+_repo: Aus-einer-kleinen-GarnisonEin-milit-risches-Zeitbild_44719
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44719-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Bilse, Fritz Oswald
+    alias: Kyrburg, Fritz von der
+    birthdate: 1878
+    deathdate: 1951
+    gutenberg_agent_id: '35094'
+    url: http://www.gutenberg.org/2009/agents/35094
+    wikipedia: http://en.wikipedia.org/wiki/Fritz_Oswald_Bilse
+description: ''
+gutenberg_issued: '2014-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44719'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany. Heer -- Military life -- Fiction'
+- !lcc 'PT'
+- !lcsh 'Soldiers -- Fiction'
+title: 'Aus einer kleinen Garnison: Ein militärisches Zeitbild'
+url: http://www.gutenberg.org/ebooks/44719
