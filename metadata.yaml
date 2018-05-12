@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35094
     wikipedia: http://en.wikipedia.org/wiki/Fritz_Oswald_Bilse
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44719#Aus-einer-kleinen-GarnisonEin-milit-risches-Zeitbild
 gutenberg_issued: '2014-01-20'
 gutenberg_type: Text
 identifiers:
